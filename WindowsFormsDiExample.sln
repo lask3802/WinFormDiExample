@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsDiExample", "WindowsFormsDiExample\WindowsFormsDiExample.csproj", "{CF93E710-4E28-4BBD-98F6-93D40E5DDDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF93E710-4E28-4BBD-98F6-93D40E5DDDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF93E710-4E28-4BBD-98F6-93D40E5DDDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF93E710-4E28-4BBD-98F6-93D40E5DDDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF93E710-4E28-4BBD-98F6-93D40E5DDDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
